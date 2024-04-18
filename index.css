@@ -1,0 +1,559 @@
+body{
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+}
+.main_nav
+{
+    display:inline;
+}
+#gy
+{
+    color: white;
+}
+#m
+{   
+    color:red;
+    margin-left: -0.01%;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+li
+{
+    display: inline;
+    color: white;
+    padding: 1%;
+}
+.sub1_nav
+{
+    font-size:xx-large;
+   height: 50px;
+    background-color: black;
+    width: 100%;
+}
+.sub1_nav span{
+    margin-left: 5%;
+}
+.sub_nav
+{
+    margin-left: 60%;
+    margin-top: -53px;
+}
+#h-1
+{
+    color: white;
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 70px;
+}
+#h-2
+{
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 65px;
+}
+.main_about
+{
+    background-color: black;
+    margin-top: 15%;
+    display: flex;
+    gap: 40px;
+    color: white;
+    
+}
+
+#about_txt
+{
+    color: red;
+    font-size: 40px;
+}
+#wel_about_txt
+{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#txt1_about,#txt2_about,#txt3_about
+{
+    font-size: 30px;
+}
+#btn_join,#btn_contact
+{
+    background-color:orangered;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: large;
+    border: 1px solid orangered;
+}
+.btn_head
+{
+    margin-left: 41%;
+    display: flex;
+    gap: 30px;
+}
+.wo_us
+{
+    font-size: 20px;
+    color: white;
+    margin-left: 660px;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 250px;
+    transform: translateY(40px);
+}
+.wo_us1
+{
+    background-color: black;
+    margin-top: -30px;
+}
+.img_flex
+{
+    display: flex;
+    gap:50px;
+    justify-content: center;
+}
+.class
+{
+    font-size: 20px;
+    color: white;
+    margin-left: 700px;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 220px;
+    transform: translateY(40px);
+}
+.class_s
+{
+    background-color: black;
+    margin-top: -30px;
+}
+.h_22
+{
+    color: white;
+    margin-left: 685px;
+    margin-top: -20px;
+}
+.wo_main
+{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.wo_1
+{
+    background-color: rgb(29, 29, 29);
+    width: 400px;
+    color: white;
+    height: 300px;
+    font-size: x-large;
+    text-align: center;
+}
+.team_main
+{
+    background-color: black;
+    margin-top: -20px;
+}
+#te
+{
+    margin-left:0%;
+}
+
+.team_1
+{
+    color: orangered;
+    width: 900px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    
+}
+.team_2
+{
+    color: white;
+    margin-top: -250px;
+    text-align: center;
+    width: 100%;
+}
+
+.img_trainer
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.main_txt_trainer
+{
+    color: white;
+    background-color: rgba(36, 36, 36, 0.585);
+    transform: translateY(-100px);
+    height: 100px;
+    text-align: center;
+}
+#jhon
+{
+    font-size: x-large;
+}
+.main_foot
+{
+    background-color: rgb(15, 15, 15);
+    height: 400px;
+}
+.sub_foot
+{
+    display: flex;
+    gap:15%;
+    color:white;
+    justify-content: center;
+    transform: translateY(60px);
+    text-align: center;
+    font-size: large;
+    text-shadow: 2px 2px 5px black;
+}
+.sub1_nav1
+{
+    font-size: 30px;
+    letter-spacing:5px;
+}
+
+#link_foot
+{
+    font-size: 20px;
+    color: red;
+}
+#m1
+{
+    color: red;
+
+}
+.foot_2
+{
+    text-align: left;
+    font-size: large;
+}
+.abut_main
+{
+    margin-top: 100px;
+}
+.main_about_1
+{
+    background-color: black;
+    margin-top: 21%;
+    display: flex;
+    gap: 40px;
+    color: white;
+
+}
+.about_pic
+{
+    background-color: black;
+    width: 1900px;
+    height: 70px;
+    margin-top: -21px;
+}
+#mini_
+{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.mini_1
+{
+    background-color: white;
+    width: 413px;
+    height: 503px;
+    margin-left: 30px;
+
+}
+/* .main_service
+{
+    background-color: black;
+} */
+.main_serv
+{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    color: black;
+    width: 1100px;
+    margin-left: 15%;
+}
+
+.sub_ser
+{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    
+}
+
+#txt_serv
+{
+    font-size: x-l  arge;
+}
+.offer{
+    margin-top: 00px;
+    background-color: #222222;
+}
+
+#img_arr
+{
+    transform: translateY(10px);
+}
+
+.offer
+{
+    background-color: #222222;
+    color:white;
+    height: 700px;
+
+}
+.oo_1
+{
+    color: white;
+    margin-top: 100px;  
+}
+.sub_offer_get
+{
+    text-align: center;
+}
+#btn_member
+{
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+    height: 40px;
+    width: 180px;
+    border-radius: 40px;
+}
+.main_s{
+    background-color: black;
+    text-align: center;height: 400px;
+}
+
+.sub_s{
+    color: white;
+}
+.sub1_sers
+{
+    display: flex;
+    gap: 10%;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+#colo_1
+{
+    color: orangered;
+}
+.why_1
+{
+    color: orangered;
+    background-color: black;
+    margin-top: 400px;
+    width: 100%;
+    height: 700px;
+}
+.txt_wh
+{
+    text-align: center;
+
+}
+#push_h1
+{
+    color:white;
+}
+.main_img_servicep1
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.main_img_servicep2
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.sub_service_p2_1
+{
+    background-color: #222222;
+    height:"300px";
+    width:"150px";
+    color: white;
+    text-align: center;
+}
+.main_plan_card
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: -23px;
+    height: 700px;
+}
+#our_plan
+{
+    color: orangered;
+}
+.sub_card_plan
+{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+.plan_1
+{
+    background-color: #222222;
+    height: 430px;
+    width: 300px;
+    font-size: large;
+    border-radius: 30px;
+}
+#plan_a ul li
+{
+    display: list-item;
+    text-align: left;
+}
+#price_pan
+{
+    color: orangered;
+}
+#buy
+{
+    background-color: orangered;
+    color: white;
+    height: 30px;
+    width: 70px;
+    border: 1px solid orangered;
+    border-radius: 30px;
+}
+.con_main
+{
+    background-color: black;
+    width: 1520px;
+    height: 900px;
+    margin-top: 400px;
+}
+.cont_1
+{
+    color: white;
+    margin-top: -700px;
+    margin-left: 100px;
+    color: orangered;
+}
+.cont_1_2
+{
+    color: white;
+    margin-top: -1200px;
+}
+.num_1
+{
+    margin-left: 90px;
+}
+.num_1
+{
+    display: flex;
+}
+#sub_frm_1
+{
+    width: 100px;
+    height: 100px;
+}
+.reg_1
+{
+    background-color: black;
+    color: white;
+    height: 9%;
+    margin-top: 300px;
+}
+.reg_1_1
+{
+    margin-left: 620px;
+}
+.ig_1_1
+{
+    margin-left: -600px;
+}
+.usr_1{
+    margin-left: 700px;
+    margin-top: -500px;
+}
+#ml_1
+{
+    color: white;
+}
+.main_plan_card_1
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 450px;
+    height: 700px;
+}
+
+.class_1
+{
+    font-size: 20px;
+    color: white;
+    margin-left: 659px;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 220px;
+    transform: translateY(40px);
+}
+.team_main_1
+{
+    background-color: black;
+    margin-top: 300px;
+
+}
+.team_1_1
+{
+    color: orangered;
+    width: 900px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    
+}
+.team_2_1
+{
+    color: white;
+    margin-top: -250px;
+    text-align: center;
+    width: 100%;
+}
+.uu_1
+{
+    margin-top: 700px;
+    margin-left: -1358px;
+}
+.hy_1
+{
+    color: white;
+    background-color: black;
+    margin-top: -100px;
+    margin-left: 600px;
+    width: 900px;
+}
+.team_2_2
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 1500px;
+    margin-top: -30px;
+}
